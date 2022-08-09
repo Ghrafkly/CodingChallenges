@@ -1,0 +1,2 @@
+# Coding Challenge 1
+Using a stack object, write an algorithm to check if a passed string which contains a mathematical expression in base 10 is well formed. For example, a well formed expression would have an operator between two operands. Valid operators include +, - , *, /.

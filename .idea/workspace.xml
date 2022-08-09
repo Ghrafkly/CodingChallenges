@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fa371b60-24d3-420f-b176-6076d22afbc0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson18/Challenge1/Challenge.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson18/Challenge1/LinkedListCombine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson18/Challenge1/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson18/Challenge2/Challenge.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson18/Challenge2/QuarterPercentList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson18/Challenge2/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson19/Challenge1/Challenge.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson19/Challenge1/CheckExpression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson19/Challenge1/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson19/Challenge2/Challenge.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson19/Challenge2/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson19/Challenge2/SortStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson20/Challenge1/BSTNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson20/Challenge1/BinarySearchTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson20/Challenge1/Challenge.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson20/Challenge1/KSmallest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson20/Challenge2/Challenge.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Quiz/BSTNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Quiz/BinaryArraySequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Quiz/BinarySearchTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Quiz/CircularLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Quiz/IdenticalTrees.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Quiz/ProductString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Quiz/ReverseStack.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2CjpyQtLpYL94h7PujQJa2LZrWo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;extract.method.default.visibility&quot;: &quot;private&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Kyle/OneDrive/Uni/Algorithms and Databases/CodingChallenges/src/main/java/Lesson20/Challenge1&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Kyle\OneDrive\Uni\Algorithms and Databases\CodingChallenges\src\main\java\Lesson20\Challenge1" />
+      <recent name="C:\Users\Kyle\OneDrive\Uni\Algorithms and Databases\CodingChallenges\src\main\java\Lesson20" />
+      <recent name="C:\Users\Kyle\OneDrive\Uni\Algorithms and Databases\CodingChallenges\src\main\java\Lesson19\Challenge2" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Kyle\OneDrive\Uni\Algorithms and Databases\CodingChallenges\src\main\java\Lesson20\Challenge2" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Quiz" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.BinaryArraySequence">
+    <configuration name="BinaryArraySequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Quiz.BinaryArraySequence" />
+      <module name="CodingChallenges" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Quiz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BinarySearchTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson20.Challenge1.BinarySearchTree" />
+      <module name="CodingChallenges" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson20.Challenge1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CircularLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Quiz.CircularLinkedList" />
+      <module name="CodingChallenges" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Quiz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IdenticalTrees" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Quiz.IdenticalTrees" />
+      <module name="CodingChallenges" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Quiz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Quiz.BinarySearchTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Quiz.BinarySearchTree" />
+      <module name="CodingChallenges" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Quiz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BinaryArraySequence" />
+        <item itemvalue="Application.IdenticalTrees" />
+        <item itemvalue="Application.BinarySearchTree" />
+        <item itemvalue="Application.Quiz.BinarySearchTree" />
+        <item itemvalue="Application.CircularLinkedList" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fa371b60-24d3-420f-b176-6076d22afbc0" name="Changes" comment="" />
+      <created>1659326103241</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1659326103241</updated>
+      <workItem from="1659326104631" duration="3239000" />
+      <workItem from="1659572815069" duration="4477000" />
+      <workItem from="1659831372720" duration="8219000" />
+      <workItem from="1659852208788" duration="12000" />
+      <workItem from="1659998983685" duration="236000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
