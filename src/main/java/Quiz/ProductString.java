@@ -9,11 +9,17 @@ public class ProductString {
         Stack<Integer> a = new Stack<>();
         Stack<Integer> b = new Stack<>();
 
-        for (int i = 0; i < x.length(); i++)
+        for (int i = 0; i < x.length(); i++) {
+            if (x.length() == 1)
+                a.push(0);
             a.push(Character.getNumericValue(x.charAt(i)));
+        }
 
-        for (int i = 0; i < y.length(); i++)
+        for (int i = 0; i < y.length(); i++) {
+            if (y.length() == 1)
+                b.push(0);
             b.push(Character.getNumericValue(y.charAt(i)));
+        }
 
         if (a.size() > 2 || b.size() > 2) {
             System.out.println("Invalid input");

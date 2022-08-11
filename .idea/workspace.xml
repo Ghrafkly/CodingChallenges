@@ -5,36 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fa371b60-24d3-420f-b176-6076d22afbc0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson18/Challenge1/Challenge.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson18/Challenge1/LinkedListCombine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson18/Challenge1/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson18/Challenge2/Challenge.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson18/Challenge2/QuarterPercentList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson18/Challenge2/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson19/Challenge1/Challenge.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson19/Challenge1/CheckExpression.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson19/Challenge1/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson19/Challenge2/Challenge.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson19/Challenge2/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson19/Challenge2/SortStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson20/Challenge1/BSTNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson20/Challenge1/BinarySearchTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson20/Challenge1/Challenge.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson20/Challenge1/KSmallest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson20/Challenge2/Challenge.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Quiz/BSTNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Quiz/BinaryArraySequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Quiz/BinarySearchTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Quiz/CircularLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Quiz/IdenticalTrees.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Quiz/ProductString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Quiz/ReverseStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Quiz/ProductString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Quiz/ProductString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Quiz/ReverseStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Quiz/ReverseStack.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +58,7 @@
       <recent name="Quiz" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BinaryArraySequence">
+  <component name="RunManager" selected="Application.ProductString">
     <configuration name="BinaryArraySequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Quiz.BinaryArraySequence" />
       <module name="CodingChallenges" />
@@ -112,19 +85,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CircularLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Quiz.CircularLinkedList" />
-      <module name="CodingChallenges" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Quiz.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="IdenticalTrees" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Quiz.IdenticalTrees" />
       <module name="CodingChallenges" />
@@ -138,8 +98,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Quiz.BinarySearchTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Quiz.BinarySearchTree" />
+    <configuration name="ProductString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Quiz.ProductString" />
+      <module name="CodingChallenges" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Quiz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReverseStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Quiz.ReverseStack" />
       <module name="CodingChallenges" />
       <extension name="coverage">
         <pattern>
@@ -153,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ProductString" />
+        <item itemvalue="Application.ReverseStack" />
         <item itemvalue="Application.BinaryArraySequence" />
         <item itemvalue="Application.IdenticalTrees" />
         <item itemvalue="Application.BinarySearchTree" />
-        <item itemvalue="Application.Quiz.BinarySearchTree" />
-        <item itemvalue="Application.CircularLinkedList" />
       </list>
     </recent_temporary>
   </component>
@@ -174,6 +147,9 @@
       <workItem from="1659831372720" duration="8219000" />
       <workItem from="1659852208788" duration="12000" />
       <workItem from="1659998983685" duration="236000" />
+      <workItem from="1660082601277" duration="595000" />
+      <workItem from="1660118485745" duration="16000" />
+      <workItem from="1660120311439" duration="1766000" />
     </task>
     <servers />
   </component>

@@ -49,5 +49,6 @@ public class ReverseStack {
         System.out.println("Stack before reverse:" + stack);
         stack = reverse(stack);
         System.out.println("Stack after reverse:" + stack);
+        sc.close();
     }
 }
